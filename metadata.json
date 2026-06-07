@@ -1,0 +1,11 @@
+{
+  "name": "Meeting Translator and Summarizer",
+  "description": "An interactive bilingual meeting translator, automatic notes maker, meeting summary generator, whiteboard, audio recorder, and meeting archiver.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
